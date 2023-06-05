@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "5/vrdyGdse6nqPzWD4cNMV8GH2aZUji7M/m5rG8kwBQ=",
+  "Hash": "+rzOT7kqSURykrK4MXHh5Am9/a8JpIJAIvfds2njjgo=",
   "Source": "razor-app",
   "BasePath": "_content/razor-app",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "razor-app\\wwwroot",
+      "Source": "razor-app",
+      "ContentRoot": "C:\\dev\\razor-app\\wwwroot\\",
+      "BasePath": "_content/razor-app",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

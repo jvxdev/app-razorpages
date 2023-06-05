@@ -7,4 +7,9 @@
     <RootNamespace>razor_app</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\imgs\" />
+    <Folder Include="wwwroot\css\" />
+  </ItemGroup>
+
 </Project>

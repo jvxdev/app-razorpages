@@ -1,5 +1,6 @@
 C:\dev\razor-app\bin\Debug\net7.0\appsettings.Development.json
 C:\dev\razor-app\bin\Debug\net7.0\appsettings.json
+C:\dev\razor-app\bin\Debug\net7.0\razor-app.staticwebassets.runtime.json
 C:\dev\razor-app\bin\Debug\net7.0\razor-app.exe
 C:\dev\razor-app\bin\Debug\net7.0\razor-app.deps.json
 C:\dev\razor-app\bin\Debug\net7.0\razor-app.runtimeconfig.json
@@ -11,6 +12,8 @@ C:\dev\razor-app\obj\Debug\net7.0\razor-app.AssemblyInfoInputs.cache
 C:\dev\razor-app\obj\Debug\net7.0\razor-app.AssemblyInfo.cs
 C:\dev\razor-app\obj\Debug\net7.0\razor-app.csproj.CoreCompileInputs.cache
 C:\dev\razor-app\obj\Debug\net7.0\razor-app.MvcApplicationPartsAssemblyInfo.cache
+C:\dev\razor-app\obj\Debug\net7.0\razor-app.RazorAssemblyInfo.cache
+C:\dev\razor-app\obj\Debug\net7.0\razor-app.RazorAssemblyInfo.cs
 C:\dev\razor-app\obj\Debug\net7.0\staticwebassets\msbuild.razor-app.Microsoft.AspNetCore.StaticWebAssets.props
 C:\dev\razor-app\obj\Debug\net7.0\staticwebassets\msbuild.build.razor-app.props
 C:\dev\razor-app\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.razor-app.props
