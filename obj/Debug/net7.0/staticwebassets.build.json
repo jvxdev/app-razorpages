@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+rzOT7kqSURykrK4MXHh5Am9/a8JpIJAIvfds2njjgo=",
+  "Hash": "gsXt3WAMCZ6zKnQ3n/tvYAmUozdjqvh2MnkTY00zaN8=",
   "Source": "razor-app",
   "BasePath": "_content/razor-app",
   "Mode": "Default",
@@ -15,5 +15,57 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\dev\\razor-app\\wwwroot\\css\\bootstrap.min.css",
+      "SourceId": "razor-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\razor-app\\wwwroot\\",
+      "BasePath": "_content/razor-app",
+      "RelativePath": "css/bootstrap.min.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
+    },
+    {
+      "Identity": "C:\\dev\\razor-app\\wwwroot\\css\\site.css",
+      "SourceId": "razor-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\razor-app\\wwwroot\\",
+      "BasePath": "_content/razor-app",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\dev\\razor-app\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "SourceId": "razor-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\razor-app\\wwwroot\\",
+      "BasePath": "_content/razor-app",
+      "RelativePath": "js/bootstrap.bundle.min.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
+    }
+  ]
 }
