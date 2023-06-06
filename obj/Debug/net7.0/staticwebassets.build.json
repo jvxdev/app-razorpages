@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gsXt3WAMCZ6zKnQ3n/tvYAmUozdjqvh2MnkTY00zaN8=",
+  "Hash": "Xbb8sn59ABTuQKpC3shmceFa70CijO3KKMxo/6zI73w=",
   "Source": "razor-app",
   "BasePath": "_content/razor-app",
   "Mode": "Default",
@@ -16,6 +16,40 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\dev\\razor-app\\obj\\Debug\\net7.0\\scopedcss\\bundle\\razor-app.styles.css",
+      "SourceId": "razor-app",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\razor-app\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/razor-app",
+      "RelativePath": "razor-app.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dev\\razor-app\\obj\\Debug\\net7.0\\scopedcss\\bundle\\razor-app.styles.css"
+    },
+    {
+      "Identity": "C:\\dev\\razor-app\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\razor-app.bundle.scp.css",
+      "SourceId": "razor-app",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\dev\\razor-app\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/razor-app",
+      "RelativePath": "razor-app.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\dev\\razor-app\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\razor-app.bundle.scp.css"
+    },
     {
       "Identity": "C:\\dev\\razor-app\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "razor-app",
@@ -66,6 +100,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Identity": "C:\\dev\\razor-app\\wwwroot\\js\\site.js",
+      "SourceId": "razor-app",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\dev\\razor-app\\wwwroot\\",
+      "BasePath": "_content/razor-app",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\site.js"
     }
   ]
 }

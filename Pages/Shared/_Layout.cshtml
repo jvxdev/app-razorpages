@@ -7,6 +7,7 @@
 
     <link href="~/css/bootstrap.min.css" rel="stylesheet" asp-append-version="true" />
     <link href="~/css/site.css" rel="stylesheet" asp-append-version="true" />
+    <link href="~/razor-app.styles.css" rel="stylesheet" asp-append-version="true" />
 </head>
 <body>
     <header>
@@ -17,6 +18,10 @@
         @RenderBody()
     </main>
 
-    <script href="~/js/bootstrap.bundle.min.js" asp-append-version="true"></script>
+    <footer class="bg-dark fixed-bottom text-center">Powered by jvxdev</footer>
+
+    @RenderSection("scripts", required: false)
+
+    <script src="~/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>

@@ -27,3 +27,5 @@ C:\dev\razor-app\obj\Debug\net7.0\refint\razor-app.dll
 C:\dev\razor-app\obj\Debug\net7.0\razor-app.pdb
 C:\dev\razor-app\obj\Debug\net7.0\razor-app.genruntimeconfig.cache
 C:\dev\razor-app\obj\Debug\net7.0\ref\razor-app.dll
+C:\dev\razor-app\obj\Debug\net7.0\scopedcss\Pages\Categories.cshtml.rz.scp.css
+C:\dev\razor-app\obj\Debug\net7.0\scopedcss\projectbundle\razor-app.bundle.scp.css

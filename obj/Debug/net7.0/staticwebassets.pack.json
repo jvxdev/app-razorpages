@@ -1,6 +1,10 @@
 {
   "Files": [
     {
+      "Id": "C:\\dev\\razor-app\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\razor-app.bundle.scp.css",
+      "PackagePath": "staticwebassets\\razor-app.bundle.scp.css"
+    },
+    {
       "Id": "C:\\dev\\razor-app\\wwwroot\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
     },
@@ -11,6 +15,10 @@
     {
       "Id": "C:\\dev\\razor-app\\wwwroot\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\dev\\razor-app\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.razor-app.props",
