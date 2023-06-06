@@ -1,5 +1,8 @@
-﻿@page "~/categorias"
+﻿@page "~/categorias/{skip?}/{take?}"
 @model razor_app.Pages.CategoriesModel
+@{
+    ViewData["Title"] = "Categorias";
+}
 
 <div>
     <h1>Categorias</h1>
